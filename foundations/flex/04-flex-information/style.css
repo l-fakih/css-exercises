@@ -4,10 +4,8 @@ body {
 }
 
 img {
-  display: flex;
   width: 100px;
   height: 100px;
-  margin: auto;
 }
 
 .title {
